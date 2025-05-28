@@ -1,21 +1,14 @@
-I am an enthusiastic and innovative Software Engineer with a Bachelor of Science in Software Engineering, graduating with a CGPA of 3.82. 
-My passion for technology drives me to create impactful solutions that boost organizational performance and foster growth. 
-With a blend of technical expertise and a commitment to excellence, I am dedicated to leveraging my skills to advance 
-cutting-edge projects and contribute to dynamic teams. 
+Fissiha Petros 👋
+I’m a dedicated Full-Stack Software Engineer specializing in ASP.NET MVC/Core and Angular. 
 
-Skills
-- ASP.NET MVC
-- ASP.NET Core
-- Angular
-- C#
-- Java 
-- JavaScript
-- PHP
-- WordPress
-- MySQL
-- SQLite
-- Bootstrap
-- jQuery
-- Problem Solving & Teamwork
-- Time  & Project Management
-- Effective Communication & Innovation
+🔧 Skills
+Full-Stack: ASP.NET MVC, ASP.NET Core, C#, Java, PHP, RESTful APIs,  Angular (TypeScript), JavaScript, jQuery, Bootstrap
+Web Platforms: WordPress and Drupal
+Databases: MySQL, SQLite, SQL Server
+
+🎓 Education
+B.Sc. in Software Engineering, graduated with CGPA 3.82
+
+📫 Get In Touch
+📧 Email: fissihapetros90@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/fissiha-petros/ 
