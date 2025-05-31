@@ -1,7 +1,6 @@
 Fissiha Petros, I’m a dedicated Full-Stack Software Engineer.
 
 🔧 Skills
-  - Full-Stack: 
     - ASP.NET Core
     - ASP.NET MVC
     - APIs
