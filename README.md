@@ -1,9 +1,14 @@
 Fissiha Petros, I’m a dedicated Full-Stack Software Engineer.
 
 🔧 Skills
-  Full-Stack: ASP.NET MVC, ASP.NET Core, C#, Java, PHP, RESTful APIs,  Angular (TypeScript), JavaScript, jQuery, Bootstrap
-  Web Platforms: WordPress and Drupal
-  Databases: MySQL, SQLite, SQL Server
+  Full-Stack: 
+  - ASP.NET MVC
+  - ASP.NET Core
+  - RESTful APIs
+  - Angular
+  - WordPress
+  - Drupal
+  
 
 🎓 Education
   B.Sc. in Software Engineering, graduated with CGPA 3.82
