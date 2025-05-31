@@ -8,7 +8,7 @@ Fissiha Petros, I’m a dedicated Full-Stack Software Engineer.
     - WordPress
     - Drupal
     
-    🎓 Education
+🎓 Education
   - B.Sc. in Software Engineering, graduated with CGPA 3.82
 
 📫 Get In Touch
