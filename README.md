@@ -3,6 +3,7 @@
 - ASP.NET MVC
 - API
 - Angular
+- Redux
 - WordPress
 - Drupal
     
