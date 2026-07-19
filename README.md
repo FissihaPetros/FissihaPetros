@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/fissiha-petros/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fissiha-petros/"><img src="https://img.shields.io/badge/LinkedIn-fissiha--petros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:fissihapetros90@gmail.com"><img src="https://img.shields.io/badge/Email-fissihapetros90%40gmail.com-2C5F8A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+251934783702"><img src="https://img.shields.io/badge/Phone-%2B251--9--347--837--02-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/FissihaPetros"><img src="https://img.shields.io/badge/GitHub-FissihaPetros-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -75,10 +75,7 @@ My approach is grounded in **Clean Architecture** and **Domain-Driven Design**, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FissihaPetros&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2C5F8A&icon_color=2C5F8A&text_color=333333&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FissihaPetros&layout=compact&hide_border=true&title_color=2C5F8A&text_color=333333&cache_seconds=1800" width="35%"/>
-
-<img src="https://streak-stats.demolab.com/?user=FissihaPetros&hide_border=true&background=FFFFFF00&stroke=2C5F8A&ring=2C5F8A&fire=2C5F8A&currStreakLabel=2C5F8A" width="49%"/>
+<img src="https://img.shields.io/github/followers/FissihaPetros?style=for-the-badge&color=2C5F8A&logo=github&logoColor=white&label=Followers"/>
 
 </div>
 
@@ -91,12 +88,10 @@ My approach is grounded in **Clean Architecture** and **Domain-Driven Design**, 
 I'm always open to discussing **Clean Architecture**, **DDD**, and **enterprise .NET/Angular systems**. Feel free to reach out or explore my repositories!
 
 <p>
-  <a href="https://www.linkedin.com/in/fissiha-petros/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/fissiha-petros/"><img src="https://img.shields.io/badge/LinkedIn-fissiha--petros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:fissihapetros90@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+251934783702"><img src="https://img.shields.io/badge/Call-%2B251--9--347--837--02-25D366?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <a href="https://github.com/FissihaPetros"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=FissihaPetros&label=Profile+Views&color=2c5f8a&style=flat" />
 
 </div>
