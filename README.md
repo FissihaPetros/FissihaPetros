@@ -54,7 +54,6 @@ My approach is grounded in **Clean Architecture** and **Domain-Driven Design**, 
 
 <img src="https://img.shields.io/badge/Clean_Architecture-1e3a5f?style=for-the-badge&logo=blueprint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Domain--Driven_Design-2C5F8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CQRS_%2B_MediatR-3a7ca5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SOLID-0b5394?style=for-the-badge"/>
 
 **Data & Tools**
