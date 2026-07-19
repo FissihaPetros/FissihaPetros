@@ -2,7 +2,7 @@
 
 # Fissiha Petros
 
-### Full-Stack Software Engineer | Clean Architecture & DDD
+### Full-Stack Software Engineer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5F8A&center=true&vCenter=true&width=650&lines=ASP.NET+Core+%7C+C%23+%7C+Angular+%7C+NgRx;Clean+Architecture+%7C+Domain-Driven+Design;SOLID+Principles+%7C+Design+Patterns;REST+APIs+%7C+SQL+Server+%7C+Entity+Framework+Core" alt="Typing SVG" />
